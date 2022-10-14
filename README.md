@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LinuxElder
-- 👀 I’m interested in becoming a Full-Stack developer.
+- 👀 I’m on my way to become the best .Net Full-Stack developer I can be.
 - 🌱 I’m currently learning AL, C# and .Net6.
-- 💞️ I’m looking to collaborate on helpdesk system.
+- Things I got a good grasp on, MVC design parten, .Net6 WebAPI, C# syntax, Entity Framework and AutoMapper Nuget package to autovalidate my httpget responses.
 - 📫 How to reach me ... testlinux55@gmail.com
 
 <!---
