@@ -1,4 +1,4 @@
-Hi 👋, I'm Simbarashe Marimo.
+### Hi 👋, I'm Simbarashe Marimo.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinuxElder)](https://github.com/LinuxElder/github-readme-stats) 
 
