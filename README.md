@@ -8,4 +8,4 @@
 
 Things I got a good grasp on, MVC design parten, .Net6 WebAPI, C# syntax, Entity Framework and AutoMapper Nuget package to autovalidate my httpget responses.
 
-📫 How to reach me ... testlinux55@gmail.com
+📫 How to reach me ... Simbamarimo09@gmail.com
