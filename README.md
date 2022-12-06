@@ -22,8 +22,6 @@ Skills: JS / HTML5 / CSS3 / TAILWIND / PHP / MySQL / C++ / VB.NET / .Net6 / C# /
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LinuxElder&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LinuxElder)  
-
 ![GitHub metrics](https://metrics.lecoq.io/LinuxElder)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=LinuxElder)  
